@@ -16,7 +16,7 @@ export const defaultSetting = {
 // - 本网站域名由 [@AUDI_GUZZ](https://m.okjike.com/users/4af3cfb4-1291-4a8b-b210-f515c86934a9) 和 [@Airyland](https://m.okjike.com/users/C6C8DE3A-E89D-4978-9E7D-B2E167D835A9) 免费提供，感谢。API Key 由我自己免费提供，注意不要滥用。
 // - [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部。`
 export const defaultMessage = ` Make by HeYong
-- 如果本项目对你有所帮助，欢迎[投喂](https://s1.ax1x.com/2023/03/29/ppgAiyF.png)，但不接受任何付费功能请求。
+- 如果本项目对你有所帮助，欢迎[投喂](http://rsbqbt096.sabkt.gdipper.com/%E5%9B%BE%E5%83%8F-1680162950164.jpg?e=1680164506&token=wV8IuE3Mi7-KopK-ph2aZNd7Gf7kqn23jMLGHGD6:uX0IHm9g3qgYalujkoUvWXwYAjs=)，但不接受任何付费功能请求。
 - API Key 请自行提供。
 - [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部。`
 
